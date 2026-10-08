@@ -629,4 +629,4 @@ Markdown Answer + Sources
 
 🌐 **Live:** https://devdocs-agent.vercel.app/
 
-[![M8ven Verified](https://m8ven.ai/badge/mcp/adhithyan2004-devdocs-agent-1ctkrq?variant=verified&v=18ad719c696519bcc992dba5c2fb2293)](https://m8ven.ai/mcp/adhithyan2004-devdocs-agent-1ctkrq?s=readme)
+[![M8ven Verified](https://m8ven.ai/badge/mcp/adhithyan2004/devdocs-agent?variant=verified)](https://m8ven.ai/mcp/adhithyan2004/devdocs-agent?s=readme)
